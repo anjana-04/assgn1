@@ -1,0 +1,27 @@
+[{"name":"The oath of vayuputras",
+    "author":"Amish",
+    "category":"fiction",
+    "description":"This book depict lord shiva as a human and take us through a thrilling journey",
+    "image":"1.jpg"
+},
+{"name":"lost symbol",
+"author":"Dan Brown",
+"category":"fiction",
+"description":"This is a fiction with thrilling suspence and misteries" ,
+"image":"lost.jpg"},
+
+{"name":"Harry potter and goblet of fire",
+    "author":"J K Roughling",
+    "category":"fiction",
+    "description":"This book will take you through the magic world",
+    "image":"harry.jpg"},
+   
+    {"name":"The alchemist",
+        "author":"poulo chelo",
+        "category":"novel",
+        "description":"An insight to motivation",
+        "image":"al.jpg"}
+        
+    
+    
+]
